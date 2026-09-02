@@ -9,5 +9,4 @@ Install [pip](https://pypi.org/project/pip/).
 
 ## Developers
 
-* **Your First Name**
-* *Your Second Name*
+Tevin Mallette
