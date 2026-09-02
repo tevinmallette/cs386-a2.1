@@ -1,4 +1,3 @@
-# cs386-a2.1
 # MyCarDriver
 
 ## Installation
@@ -9,4 +8,5 @@ Install [pip](https://pypi.org/project/pip/).
 
 ## Developers
 
-Tevin Mallette
+* **Tevin Mallette**
+* *Marco Gerosa*
